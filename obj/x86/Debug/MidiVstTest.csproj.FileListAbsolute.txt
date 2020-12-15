@@ -1,0 +1,32 @@
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest\bin\Debug\MidiVstTest.exe.config
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest\bin\Debug\MidiVstTest.exe
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest\bin\Debug\MidiVstTest.pdb
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest\bin\Debug\Jacobi.Vst.Core.dll
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest\bin\Debug\Jacobi.Vst.Interop.dll
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest\bin\Debug\NAudio.dll
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest\obj\x86\Debug\MidiVstTest.csprojAssemblyReference.cache
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest\obj\x86\Debug\MidiVstTest.EditParametersForm.resources
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest\obj\x86\Debug\MidiVstTest.MainForm.resources
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest\obj\x86\Debug\MidiVstTest.VSTForm.resources
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest\obj\x86\Debug\MidiVstTest.csproj.GenerateResource.cache
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest\obj\x86\Debug\MidiVstTest.csproj.CoreCompileInputs.cache
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest\obj\x86\Debug\MidiVstTest.csproj.CopyComplete
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest\obj\x86\Debug\MidiVstTest.exe
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest\obj\x86\Debug\MidiVstTest.pdb
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest — копия\bin\Debug\MidiVstTest.exe.config
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest — копия\bin\Debug\MidiVstTest.exe
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest — копия\bin\Debug\MidiVstTest.pdb
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest — копия\bin\Debug\Jacobi.Vst.Core.dll
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest — копия\bin\Debug\Jacobi.Vst.Interop.dll
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest — копия\bin\Debug\NAudio.dll
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest — копия\obj\x86\Debug\MidiVstTest.csprojAssemblyReference.cache
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest — копия\obj\x86\Debug\MidiVstTest.EditParametersForm.resources
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest — копия\obj\x86\Debug\MidiVstTest.MainForm.resources
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest — копия\obj\x86\Debug\MidiVstTest.VSTForm.resources
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest — копия\obj\x86\Debug\MidiVstTest.csproj.GenerateResource.cache
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest — копия\obj\x86\Debug\MidiVstTest.csproj.CoreCompileInputs.cache
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest — копия\obj\x86\Debug\MidiVstTest.csproj.CopyComplete
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest — копия\obj\x86\Debug\MidiVstTest.exe
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest — копия\obj\x86\Debug\MidiVstTest.pdb
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest — копия\bin\Debug\PianoRoll.dll
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest — копия\bin\Debug\PianoRoll.pdb

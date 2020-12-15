@@ -1,0 +1,30 @@
+C:\Users\Koldun\Desktop\Sequencer_project — копия — копия (2)\PianoRoll\obj\Debug\net451\PianoRoll.csprojAssemblyReference.cache
+C:\Users\Koldun\Desktop\Sequencer_project — копия — копия (2)\PianoRoll\obj\Debug\net451\PianoRoll.g.cs
+C:\Users\Koldun\Desktop\Sequencer_project — копия — копия (2)\PianoRoll\obj\Debug\net451\GeneratedInternalTypeHelper.g.cs
+C:\Users\Koldun\Desktop\Sequencer_project — копия — копия (2)\PianoRoll\obj\Debug\net451\PianoRoll_MarkupCompile.cache
+C:\Users\Koldun\Desktop\Sequencer_project — копия — копия (2)\PianoRoll\obj\Debug\net451\PianoRoll_MarkupCompile.lref
+C:\Users\Koldun\Desktop\Sequencer_project — копия — копия (2)\PianoRoll\obj\Debug\net451\PianoRoll.baml
+C:\Users\Koldun\Desktop\Sequencer_project — копия — копия (2)\PianoRoll\bin\Debug\net451\PianoRoll.dll
+C:\Users\Koldun\Desktop\Sequencer_project — копия — копия (2)\PianoRoll\bin\Debug\net451\PianoRoll.pdb
+C:\Users\Koldun\Desktop\Sequencer_project — копия — копия (2)\PianoRoll\obj\Debug\net451\Themes\Generic.baml
+C:\Users\Koldun\Desktop\Sequencer_project — копия — копия (2)\PianoRoll\obj\Debug\net451\PianoRoll.g.resources
+C:\Users\Koldun\Desktop\Sequencer_project — копия — копия (2)\PianoRoll\obj\Debug\net451\PianoRoll.AssemblyInfoInputs.cache
+C:\Users\Koldun\Desktop\Sequencer_project — копия — копия (2)\PianoRoll\obj\Debug\net451\PianoRoll.AssemblyInfo.cs
+C:\Users\Koldun\Desktop\Sequencer_project — копия — копия (2)\PianoRoll\obj\Debug\net451\PianoRoll.csproj.CoreCompileInputs.cache
+C:\Users\Koldun\Desktop\Sequencer_project — копия — копия (2)\PianoRoll\obj\Debug\net451\PianoRoll.dll
+C:\Users\Koldun\Desktop\Sequencer_project — копия — копия (2)\PianoRoll\obj\Debug\net451\PianoRoll.pdb
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest — копия\PianoRoll\bin\Debug\net451\PianoRoll.dll
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest — копия\PianoRoll\bin\Debug\net451\PianoRoll.pdb
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest — копия\PianoRoll\obj\Debug\net451\PianoRoll.csprojAssemblyReference.cache
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest — копия\PianoRoll\obj\Debug\net451\PianoRoll.g.cs
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest — копия\PianoRoll\obj\Debug\net451\GeneratedInternalTypeHelper.g.cs
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest — копия\PianoRoll\obj\Debug\net451\PianoRoll_MarkupCompile.cache
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest — копия\PianoRoll\obj\Debug\net451\PianoRoll_MarkupCompile.lref
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest — копия\PianoRoll\obj\Debug\net451\PianoRoll.baml
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest — копия\PianoRoll\obj\Debug\net451\Themes\Generic.baml
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest — копия\PianoRoll\obj\Debug\net451\PianoRoll.g.resources
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest — копия\PianoRoll\obj\Debug\net451\PianoRoll.AssemblyInfoInputs.cache
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest — копия\PianoRoll\obj\Debug\net451\PianoRoll.AssemblyInfo.cs
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest — копия\PianoRoll\obj\Debug\net451\PianoRoll.csproj.CoreCompileInputs.cache
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest — копия\PianoRoll\obj\Debug\net451\PianoRoll.dll
+C:\Users\Koldun\Desktop\AudioVSTToolbox-master\MidiVstTest — копия\PianoRoll\obj\Debug\net451\PianoRoll.pdb
